@@ -50,18 +50,6 @@ jupyter notebook Dragon_Real_Estate.ipynb
 
 ---
 
-## 🗂 Upcoming Projects (Roadmap)
-
-| Project | Type | Status |
-|--------|------|--------|
-| 🐉 Dragon Real Estate Price Prediction | Regression | ✔ Completed |
-| 🍎 Fruit Classification (CNN) | Image Classification | ⏳ Coming Soon |
-| 💳 Credit Card Fraud Detection | Classification | ⏳ Coming Soon |
-| 🤝 Customer Churn Prediction | Classification | ⏳ Coming Soon |
-| 🏥 Diabetes Prediction Model | Binary Classification | ⏳ Coming Soon |
-| 🎬 Movie Recommendation System | Recommendation | ⏳ Coming Soon |
-
----
 
 ## 🧰 Technologies Used
 
